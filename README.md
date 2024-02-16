@@ -1,16 +1,28 @@
-### Hi there 👋
+```zsh
+> neofetch
+```
 
+<img align="left" src="https://github.com/jmshtr.png#gh-light-mode-only" alt="logo-jh-light.png" width="269"/>
+<img align="left" src="https://github.com/jmshtrive.png#gh-dark-mode-only" alt="logo-jh-dark.png" width="269"/>
+
+```csharp
+jmshtr@github
+--------------
+OS: NixOS 23.11
+DE: Hyprland (Wayland)
+Bars: Waybar
+Theme: Catppuccin-Mocha-Standard-Mauve-Dark
+Icons: candy-icons
+Terminal: kitty
+Shell: Starship
+Text Editor: Doom Emacs
+Code Editor: VSCodium
+Languages: Python, C++, JavaScript (TypeScript)
+```
 <!--
-**jmshtr/jmshtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```zsh
+> coding-stats --weekly
+```
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
