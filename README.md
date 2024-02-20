@@ -25,4 +25,13 @@ Languages: Python, C++, JavaScript (TypeScript)
 ```
 
 <!--START_SECTION:waka-->
+
+```txt
+Python        2 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+C++           2 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Nix           1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+JavaScript    1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Bash          1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+```
+
 <!--END_SECTION:waka-->
