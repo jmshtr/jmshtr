@@ -19,10 +19,10 @@ Text Editor: Doom Emacs
 Code Editor: VSCodium
 Languages: Python, C++, JavaScript (TypeScript)
 ```
-<!--
+
 ```zsh
 > coding-stats --weekly
 ```
--->
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
